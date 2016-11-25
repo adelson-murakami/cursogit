@@ -1,2 +1,4 @@
-<?php echo 'ola mundo';
+<?php 
+	echo 'ola mundo';
+	echo '<br>';
 ?>
